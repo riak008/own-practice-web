@@ -1,4 +1,43 @@
 body{
 
     font-family: 'Nerko One', cursive;
+    margin: 0;
 }
+
+h1{
+    font-size: 50px;
+}
+
+.highlight-name{
+
+color: tomato;
+}
+.welcome-section{
+
+    display: flex;
+}
+
+.half-width{
+
+    width: 50%;
+}
+
+.half-width img{
+    width: 65%;
+}
+
+.text-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    color:  white;
+    font-weight: 500;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.top-banner{
+
+    background-image: url(Photos/images/top-banner.png);
+    background-repeat: no-repeat;
+    
